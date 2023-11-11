@@ -18,7 +18,7 @@ Welcome to the Google Play Store Case Study! This single notebook project delves
 
 ## Key Files
 
-- **`google_play_data_analysis.ipynb`:** The comprehensive Jupyter Notebook containing the entire data science process, from cleaning to visualization and analysis.
+- **`Data Cleaning & Visualisation in Python - Case Study.ipynb`:** The comprehensive Jupyter Notebook containing the entire data science process, from cleaning to visualization and analysis.
 
 ## Prerequisites
 
@@ -33,19 +33,19 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/google-play-case-study.git
+git clone https://github.com/your-username/Data Cleaning & Visualisation in Python - Case Study.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash 
-cd google-play-case-study
+cd Google_Playstore_Case_Study
 ```
 
 3. Run Jupyter Notebook:
 
 ```bash
-jupyter notebook google_play_data_analysis.ipynb
+jupyter notebook Data Cleaning & Visualisation in Python - Case Study.ipynb.ipynb
 ```
 
 Feel free to explore, contribute, and reach out with any questions or suggestions! 🚀📊
