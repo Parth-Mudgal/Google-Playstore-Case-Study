@@ -33,7 +33,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Data Cleaning & Visualisation in Python - Case Study.git
+git clone https://github.com/Parth-Mudgal/Google-Playstore-Case-Study.git
 ```
 
 2. Navigate to the project directory:
